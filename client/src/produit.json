@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nom": "Go Pro",
+        "description":"Never miss a moment of your outdoor adventures with the GoPro HERO12 Black sports and helmet camera. This tough camera captures 5.3K video and 27MP still images, with Horizon Lock and HDR technology for steady, detailed picture quality. It has a rugged, waterproof construction and improved battery life for extended continuous shooting.",
+        "prix": 550,
+        "photo": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/172/17223/17223632.jpg",
+        "categorie": "Autres"
+    },
+    {
+        "id": 2,
+        "nom": "TV LG C3",
+        "description":"LG C3 OLED evo 42-Inch 4K Smart TV",
+        "prix": 799,
+        "photo": "https://m.media-amazon.com/images/I/615DIKEul1L._AC_UY436_FMwebp_QL65_.jpg",
+        "categorie": "Autres"
+    },
+    {
+        "id": 3,
+        "nom": "Google Pixel Tablet",
+        "description":"The first tablet with the Tensor G2 chip built in, the Pixel Tablet features Google AI for smooth streaming, high-quality video calls and more.",
+        "prix": 79,
+        "photo": "https://m.media-amazon.com/images/I/61nTnnuxnhL._AC_SX679_.jpg",
+        "categorie": "Tabblete"
+    },
+    {
+        "id": 4,
+        "nom": "Google Pixel 8",
+        "description":"Google Tensor G3 is Pixel's most powerful chip yet. It's custom-designed with Google AI for cutting-edge photo and video features and smarter ways to help throughout the day.",
+        "prix": 79,
+        "photo": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/173/17301/17301751.jpg",
+        "categorie": "Portable"
+    }
+]
